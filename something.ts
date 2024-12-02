@@ -1,4 +1,6 @@
-  import { FileText } from "@phosphor-icons/react/FileText";
+
+
+import { FileText } from "@phosphor-icons/react/FileText";
   import { Terminal } from "@phosphor-icons/react/Terminal";
   import type { Meta, StoryObj } from "@storybook/react";
   import { code } from "../src/code";
